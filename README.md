@@ -254,7 +254,7 @@ yarn build
 
    ```bash
    # Download binary
-   wget https://releases.aether-monitor.com/latest/aether-monitor-linux-amd64.tar.gz
+   wget https://pkgs.skygenesisenterprise.com.com/latest/aether-monitor-linux-amd64.tar.gz
 
    # Extract
    tar -xzf aether-monitor-linux-amd64.tar.gz
@@ -356,14 +356,14 @@ Please read and follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ### Documentation
 
-- [Official Documentation](https://docs.aether-monitor.com)
-- [API Reference](https://docs.aether-monitor.com/api)
-- [Plugin Development Guide](https://docs.aether-monitor.com/plugins)
+- [Official Documentation](https://wiki.skygenesisenterprise.com)
+- [API Reference](https://wiki.skygenesisenterprise.com/monitor)
+- [Plugin Development Guide](https://wiki.skygenesisenterprise.com/plugins)
 
 ### Community
 
-- [GitHub Discussions](https://github.com/your-org/aether-monitor/discussions)
-- [Discord Community](https://discord.gg/aether-monitor)
+- [GitHub Discussions](https://github.com/skygenesisenterprise/aether-monitor/discussions)
+- [Discord Community](https://skygenesisenterprise.com/discord)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/aether-monitor)
 
 ### Enterprise Support
