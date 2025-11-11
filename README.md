@@ -370,12 +370,12 @@ Please read and follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 For enterprise support, contact us at:
 
-- Email: enterprise@aether-monitor.com
-- Website: https://aether-monitor.com/enterprise
+- Email: support@skygenesisenterprise.com
+- Website: https://skygenesisenterprise.com
 
 ## License
 
-Aether Monitor is licensed under the AGPL-3.0 License. See [LICENSE](LICENSE) for details.
+Aether Monitor is licensed under the Apache 2.0 License. See [LICENSE](LICENSE) for details.
 
 ## Roadmap
 
@@ -395,4 +395,10 @@ Aether Monitor is licensed under the AGPL-3.0 License. See [LICENSE](LICENSE) fo
 
 ---
 
+<div align="center">
+
 **Aether Monitor** - Empowering observability for modern infrastructure.
+
+Build with ♥️ by Sky Genesis Enterprise Team
+
+</div>
